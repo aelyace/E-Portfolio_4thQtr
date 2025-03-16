@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script type="text/javascript">
+function ICT()
+{
+var ICT=confirm("Hi miss uminga");
+if (ICT==true)
+{document.write("Yay");}
+else{document.write("Ok bye");}
+}
+</script>
+</head>
+<body>
+<input type="button" onclick="ICT()" value="click me">
+</body>
+</html>
