@@ -1,0 +1,47 @@
+<html>
+<head><title> E_PORTFOLIO_ABOUTME</title>
+<link rel="stylesheet" href="aboutme.css">
+<body background="background.jpg">
+<h1> ABOUT ME </h1>
+<body>
+
+<h4> Songs to listen while browsing </h4>
+
+<table align="center">
+<tr align="center">
+
+<td> <audio controls>
+<source src="spell.mp3" type="audio/mp3">
+</audio></td>
+
+<td> <audio controls> 
+<source src="apt.mp3" type="audio/mp3">
+</audio></td>
+
+<td> <audio controls>
+<source src="debut.mp3" type="audio/mp3">
+</audio></td>
+
+</tr>
+</table>
+
+<br><br>
+
+<img src="aboutmepic.jpg" height="350px" width="350px" style="float:right;">
+
+<h3 align="left">Socials</h3>
+<ul type="square" align="left">
+<li><a href="https://web.facebook.com/profile.php?id=100084727965454" target="_blank">Facebook </a> </li>
+<li><a href="https://www.instagram.com/_e1ish4_/" target="_blank"> Instagram </a> </li>
+<li><a href="https://x.com/_aelaydm" target="_blank"> X/Twitter </a> </li>
+<li><a href="mailto:elishajade.domondon19@gmail.com">Email</a></li>
+</ul>
+
+<br>
+
+<p> <font size="4">
+Hello! Elisha Jade D. Domondon. I am currently the Secretary of 9-Family. I am 14 years old, and I have 5 pet dogs, 2 cats, and birds. I am currently living here in Las Pinas with my parents and my younger sister, along with my 2 grandparents. Some may say, that I have a bright personality as I am always smiling and easy to approach. Some of my favorite hobbies are reading books, watching movies, listening to songs, painting sceneries, and cooking dishes for my family and friends. When I grow up, I aspire to be a biochemist or a culinary chef. As of now, I am still unsure on which of those two options I should take, but I know to myself that no matter what I choose, I will work harder and harder to achieve my goals.
+</font>
+</p>
+</body>
+</html>
