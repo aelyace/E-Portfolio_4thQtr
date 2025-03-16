@@ -1,0 +1,56 @@
+<html>
+<head><title> E_PORTFOLIO_SAMPLEOUTPUTS</title>
+<link rel="stylesheet" href="aboutme.css">
+<body background="eport4bg2.jpg">
+<h1 style="color:#62809a; font-family:Courier;" align="center"> SAMPLE OUTPUTS </h1>
+
+<h2 style="font-family:Courier; background-color:#b8ccdd;" align="center"> SAMPLE 1 </h2>
+<p align="center"><img src="sample1np.png" height="350px" width="430px" ></p>
+<br><br>
+<p align="center"><img src="sample1o.png" height="350px" width="450px" style="float:center;"></p>
+<br><br>
+
+ <h2 style="font-family:Courier; background-color:#b8ccdd;" align="center"> SAMPLE 2 </h2>
+<p align="center"><img src="sample2np.png" height="350px" width="450px" style="float:center;"></p>
+<br><br>
+<p align="center"><img src="sample2o1.png" height="350px" width="450px" style="float:center;"></p>
+<p align="center"><img src="sample2o2.png" height="350px" width="450px" style="float:center;"></p>
+<p align="center"><img src="sample2o3.png" height="350px" width="450px" style="float:center;"></p>
+<p align="center"><img src="sample2o4.png" height="350px" width="450px" style="float:center;"></p>
+
+<br><br>
+
+
+<h2 style="font-family:Courier; background-color:#b8ccdd;" align="center"> SAMPLE 3 </h2>
+<p align="center"><img src="sample3np.png" height="350px" width="450px" style="float:center;"></p>
+<br><br>
+<p align="center"><img src="sample2o1.png" height="350px" width="450px" style="float:center;"></p>
+<p align="center"><img src="sample2o2.png" height="350px" width="450px" style="float:center;"></p>
+<p align="center"><img src="sample2o3.png" height="350px" width="450px" style="float:center;"></p>
+<p align="center"><img src="sample3o1.png" height="350px" width="450px" style="float:center;"></p>
+<p align="center"><img src="sample3o2.png" height="350px" width="450px" style="float:center;"></p>
+<p align="center"><img src="sample3o3.png" height="350px" width="450px" style="float:center;"></p>
+
+<br><br>
+
+<h2 style="font-family:Courier; background-color:#b8ccdd;" align="center"> SAMPLE 4 </h2>
+<p align="center"><img src="sample4np.png" height="350px" width="450px" style="float:center;"></p>
+<br><br>
+<p align="center"><img src="sample2o1.png" height="350px" width="450px" style="float:center;"></p>
+<p align="center"><img src="sample4o1.png" height="350px" width="450px" style="float:center;"></p>
+
+<br><br>
+
+<h2 style="font-family:Courier; background-color:#b8ccdd;" align="center"> SAMPLE 5 </h2>
+<p align="center"><img src="sample5np.png" height="350px" width="450px" style="float:center;"></p>
+<br><br>
+<p align="center"><img src="sample5o1.png" height="350px" width="450px" style="float:center;"></p>
+<p align="center"><img src="sample5o2.png" height="350px" width="450px" style="float:center;"></p>
+
+
+
+
+
+
+</body>
+</html>
