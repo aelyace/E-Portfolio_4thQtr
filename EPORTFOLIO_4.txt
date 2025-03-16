@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head><title>DOMONDON_E-PORTFOLIO</title>
+<script type="text/javascript">
+function show_alert()
+{
+alert("Welcome to Elisha's E-Portfolio!");
+}
+</script>
+</head>
+<body background="eport4bg2.jpg">
+<p align="center">
+<input type="button" onclick="show_alert()" value="Click me!"/>
+</p>
+
+</body>
+</html>
