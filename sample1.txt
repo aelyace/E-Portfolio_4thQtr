@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script type="text/javascript">
+function colorcheck()
+{var color=document.colorform.color.value
+switch (color)
+{case "1": alert("This is pink!")
+break
+case "2": alert("This is my favorite color!")
+break
+case "3": alert("This is blue!")
+break
+default: alert("no idea what you're saying")}
+}
+</script>
+</head>
+<body>
+<form name="colorform">
+<p>Select a color.</p>
+<select name="color">
+<option value="1">Pink</option>
+<option value="2">Purple</option>
+<option value="3">Blue</option>
+</select>
+<input type="button" onclick="colorcheck()" value="Submit">
+</form>
+</body>
+</html>
